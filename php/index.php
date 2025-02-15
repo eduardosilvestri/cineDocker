@@ -50,7 +50,7 @@ Trailer</a></td>";
  </tbody>
  </table>
 
- <h2>Añadir Película</h2>
+ <h2>Añadir Película </h2>
     <form action="insertar.php" method="post" enctype="multipart/form-data">
         <label for="titulo">Título:</label>
         <input type="text" name="titulo" id="titulo" required><br>
